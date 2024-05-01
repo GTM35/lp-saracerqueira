@@ -1,0 +1,15 @@
+{
+  "name": "lp-saracerqueira",
+  "version": "1.0.0",
+  "description": "font-family: \"Raleway\", sans-serif;s",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass src/assets/styles/main.scss build/assets/css/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.76.0"
+  }
+}
